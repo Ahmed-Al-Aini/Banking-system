@@ -7,7 +7,7 @@
 #include <iomanip>
 #include <cstring>
 #include <conio.h>
-using namespace std;
+//using namespace std;
 //using namespace colorlib;
 
 struct Transfer
